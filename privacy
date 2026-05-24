@@ -1,0 +1,49 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title>Privacy Policy - Piggy Scheduler</title>
+  </head>
+  <body>
+
+    <h1>Privacy Policy for Piggy Scheduler</h1>
+    <p>Last updated: May 25, 2026</p>
+
+    <h2>1. Overview</h2>
+    <p>Piggy Scheduler ("the App") is a personal tool that automates posting artwork to social media platforms
+  including TikTok. This privacy policy explains how the App handles your information.</p>
+
+    <h2>2. Information We Collect</h2>
+    <p>The App may access and use the following information through TikTok's API:</p>
+    <ul>
+      <li>Basic profile information (username, display name)</li>
+      <li>The ability to upload and publish video/image content on your behalf</li>
+    </ul>
+
+    <h2>3. How We Use Your Information</h2>
+    <p>Your information is used solely to:</p>
+    <ul>
+      <li>Authenticate your TikTok account</li>
+      <li>Upload and publish content you have chosen to post</li>
+      <li>Display your account status within the App</li>
+    </ul>
+
+    <h2>4. Data Storage</h2>
+    <ul>
+      <li>Authentication tokens are stored locally on your device only</li>
+      <li>No personal data is transmitted to or stored on any third-party server operated by this App</li>
+      <li>No data is sold, shared, or disclosed to any third party</li>
+    </ul>
+
+    <h2>5. Third-Party Services</h2>
+    <p>This App integrates with the TikTok API. Your use of TikTok is governed by TikTok's own Privacy Policy and
+  Terms of Service.</p>
+
+    <h2>6. Data Retention</h2>
+    <p>Authentication tokens are stored only as long as needed. You can revoke access at any time through your
+  TikTok account settings under "Manage app permissions."</p>
+
+    <h2>7. Contact</h2>
+    <p>If you have any questions about this policy, contact: yonghuidesign@gmail.com</p>
+
+  </body>
+  </html>
